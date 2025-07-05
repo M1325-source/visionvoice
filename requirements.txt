@@ -1,0 +1,9 @@
+flask
+openai
+python-dotenv
+pytesseract
+Pillow
+gTTS
+SpeechRecognition
+azure-core
+azure-ai-translation-text

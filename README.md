@@ -30,6 +30,19 @@ Built using **Flask, OpenAI GPT-4, Azure Translator, OCR (Tesseract)**, and **gT
 - **Audio:** gTTS (Text-to-Speech), SpeechRecognition (Voice input)
 - **OCR:** Tesseract OCR via `pytesseract`
 
+  
+                                                      📸 Screenshots
+  
+  <img width="640" height="343" alt="image" src="https://github.com/user-attachments/assets/00ec3e31-ed37-4bb3-b63d-5e2470398cab" />
+
+
+
+  <img width="625" height="341" alt="image" src="https://github.com/user-attachments/assets/ab825568-41c7-400e-941f-25ea7d2f0500" />
+
+
+
+  <img width="628" height="191" alt="image" src="https://github.com/user-attachments/assets/1ebe3d4b-bb05-40df-a248-467df4be3df0" />
+
 ---
 
 ## 📂 Project Structure
